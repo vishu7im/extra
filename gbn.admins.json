@@ -1,0 +1,15 @@
+[
+  {
+    "_id": {
+      "$oid": "64525f014c286a2c2ac0fd62"
+    },
+    "username": "admin",
+    "email": "vishu.im.0007@gmail.com",
+    "password": "$2b$04$jNciflEygJ.rTR3tpssqPeVvF9qfrI9SSL1dudKGcQauWGeOyZerW",
+    "date": {
+      "$date": "2023-05-03T13:10:55.874Z"
+    },
+    "flag": true,
+    "__v": 0
+  }
+]
